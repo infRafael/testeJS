@@ -6,4 +6,4 @@ function Print(){
 
 
 
-export default OlaMundo;
+export OlaMundo;
