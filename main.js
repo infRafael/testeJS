@@ -1,5 +1,5 @@
 import {Printar, Nome} from '/print.js';
 
 
-Printar();
+window.Printar = Printar;
 console.log(Nome)
