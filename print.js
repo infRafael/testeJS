@@ -1,7 +1,7 @@
 var OlaMundo = "ola";
 
 function Print(){
-    console.log("kaue lindo");
+    alert("kaue lindo");
 }
 
 export {
