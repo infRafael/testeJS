@@ -1,4 +1,4 @@
-import {Print} from '/print.js';
+import {OlaMundo, Print} from '/print.js';
 
 
 Print();
