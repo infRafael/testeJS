@@ -4,4 +4,7 @@ function Print(){
     console.log("kaue lindo");
 }
 
-export Print;
+export {
+    Print as Printar,
+    OlaMundo as Nome
+};
