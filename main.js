@@ -1,4 +1,5 @@
-import {OlaMundo, Print} from '/print.js';
+import {Printar, Nome} from '/print.js';
 
 
-Print();
+Printar();
+console.log(Nome)
